@@ -85,8 +85,5 @@ hi def link dbmlRefOp       Macro
 hi def link dbmlRefName     Macro
 
 setlocal commentstring=//\ %s
-setlocal tabstop=2
-setlocal softtabstop=2
-setlocal shiftwidth=2
 
 let b:current_syntax = "dbml"
